@@ -225,7 +225,7 @@ git push -u origin master
 
 ## 👋 Author
 
-Made with ❤️ by [Your Name](mailto:your.email@example.com)
+Made with ❤️ by [Mustakim](shaikhmustakim2942@gmail.com)
 
 ```
 
